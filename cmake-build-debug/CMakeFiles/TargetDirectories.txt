@@ -1,3 +1,0 @@
-/home/cuom1999/SMU/CS3353/CS3353-Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/cuom1999/SMU/CS3353/CS3353-Final/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/cuom1999/SMU/CS3353/CS3353-Final/cmake-build-debug/CMakeFiles/CS3353_Final.dir

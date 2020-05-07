@@ -1,8 +1,0 @@
-/opt/clion-2020.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/cuom1999/SMU/CS3353/CS3353-Final
-CMake Error: File /home/cuom1999/SMU/CS3353/CS3353-Final/input.txt does not exist.
-CMake Error at CMakeLists.txt:8 (configure_file):
-  configure_file Problem configuring file
-
-
--- Configuring incomplete, errors occurred!
-See also "/home/cuom1999/SMU/CS3353/CS3353-Final/cmake-build-debug/CMakeFiles/CMakeOutput.log".
